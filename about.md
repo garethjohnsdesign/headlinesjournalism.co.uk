@@ -4,7 +4,7 @@ position: 4
 layout: about
 ---
 
-Michelle Kelly Style is a multi-disciplinary interior design practice providing clients with a high end, bespoke finish, to any taste and ambition. The studio works across a range of projects from large scale commercial installations to private residential projects, with equal focus on functionality and aesthetic. 
+Michelle Kely Style is a multi-disciplinary interior design practice providing clients with a high end, bespoke finish, to any taste and ambition. The studio works across a range of projects from large scale commercial installations to private residential projects, with equal focus on functionality and aesthetic. 
 
 Founder and director Michelle Kelly has worked as a stylist for ten years and as a result brings a broad spectrum of interests and influences to her design approach. 
 

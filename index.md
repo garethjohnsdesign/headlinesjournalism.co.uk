@@ -14,7 +14,7 @@ layout: index
 [+44 (0) 7940 930 331](tel:07940930331)  
 
 6 Vivian Close  
-Grantham, Lincs  
+Grantham Lincs  
 NG31 8JN
 
 [Facebook](https://en-gb.facebook.com/pg/HeadlinesJournalism)  
